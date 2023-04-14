@@ -1,9 +1,9 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
-🐍 Proficient in Python, SQL, NoSQL, and Cloud Services (AWS, GCP).
-🧠 Great experience working with Machine Learning, Deep Learning, and GPT models (Scikit-Learn, PyTorch, GPT-3).
-🎢 Strong analytical and Business Intelligence skills.
-💰 Extensive knowledge of Marketing, Sales, and Finance.
-📙 Passionate about teaching.
+- 🐍 Proficient in Python, SQL, NoSQL, and Cloud Services (AWS, GCP).
+- 🧠 Great experience working with Machine Learning, Deep Learning, and GPT models (Scikit-Learn, PyTorch, GPT-3).
+- 🎢 Strong analytical and Business Intelligence skills.
+- 💰 Extensive knowledge of Marketing, Sales, and Finance.
+- 📙 Passionate about teaching.
 
 Python, SQL, NoSQL, Bash, Scikit-Learn, PyTorch, FastAPI, Pyspark, PyMongo, Google Cloud Platform (GCP), Amazon Web Services (AWS), Power BI Desktop, Looker Studio, Git, GitHub, Jupyter Notebooks, AWS SageMaker, ETL, EDA, Docker, Open AI API, OCR, PaddleOCR.
 
