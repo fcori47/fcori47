@@ -1,6 +1,7 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
+### Buenas <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
+* 🤖 Founder of Basdonax AI, helping E-commerces to reduce fixed costs and increase productivity with AI
 * 🐍 Proficient in Python, SQL and Cloud Services (Google Cloud Platform, Azure).
-* 🧠 Expert in AI develepment (GPT 3.5, GPT 4, Langchain).
+* 🧠 Expert in AI development (GPT 3.5, GPT 4, Langchain).
 * 🎢 Strong analytical and Business Intelligence skills.
 * 💰 Extensive knowledge of Marketing, Sales, and Finance.
 * 📙 Passionate about teaching.
